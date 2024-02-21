@@ -1,1 +1,1 @@
-zajęcia c++
+zapisane kody z C++
